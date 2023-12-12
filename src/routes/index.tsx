@@ -4,8 +4,8 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
+      <Title>Welcome to Swift-Buy</Title>
+      <h1>Welcome to Swift-Buy!</h1>
       <Counter />
       <p>
         Visit{" "}
